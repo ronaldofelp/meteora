@@ -22,9 +22,9 @@ aplicar responsividade em imagens e componentes
    <li>
 acessibilidade para leitores de tela
     </li>
-  soluções com Grid e Flexbox do Bootstrap
+  
    <li>
-    
+    soluções com Grid e Flexbox do Bootstrap
 </li>
 </ul> 
 
